@@ -1,0 +1,18 @@
+AcNova Smart Irrigation Farming
+Overview
+AcNova is a smart irrigation system designed to optimize water usage in agriculture. Using cutting-edge technology, AcNova ensures efficient water distribution based on real-time data from soil moisture sensors and weather forecasts. This system is ideal for sustainable farming practices, reducing water waste and increasing crop yield.
+
+Features
+Real-time soil moisture monitoring
+Automated irrigation based on sensor data
+Cloud-based dashboard for farm management
+Weather data integration for irrigation adjustments
+Mobile and web access
+Installation
+Clone this repository: git clone https://github.com/unidatech/acnova.git
+Follow the setup instructions in the docs folder.
+Contributing
+Feel free to submit issues and pull requests. We welcome improvements and bug fixes.
+
+License
+Distributed under the MIT License. See LICENSE for more information.
