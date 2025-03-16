@@ -50,7 +50,6 @@ Connect with microfinance institutions for agri-loans and insurance.
 Access tutorials & best practices on smart farming techniques.
 Join farmer cooperatives & expert Q&A sessions.
 Participate in digital training & certification programs.
-________________________________________
 C. AcNova Mobile & Web App (For Farmers & Agribusinesses)
 A lightweight and accessible mobile/web app tailored for Android, iOS, and web users, allowing seamless farm management.
 ✅ Core Features:
